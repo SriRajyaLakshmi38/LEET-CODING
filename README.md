@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0797-rabbits-in-forest) |
+| [2249-count-the-hidden-sequences](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2249-count-the-hidden-sequences) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Two Pointers
 |  |
@@ -36,4 +37,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0797-rabbits-in-forest) |
+## Prefix Sum
+|  |
+| ------- |
+| [2249-count-the-hidden-sequences](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2249-count-the-hidden-sequences) |
 <!---LeetCode Topics End-->
