@@ -1,15 +1,13 @@
-from typing import List
+
 
 class Solution:
     def findSpecialInteger(self, arr: List[int]) -> int:
-        d = {}
-        for num in arr:
-            d[num] = d.get(num, 0) + 1
-        
-        threshold = len(arr) // 4
-        for k, v in d.items():
-            if v > threshold:
-                return k
+        n = len(arr)
+        step = n // 4
+        for i in range(n - step):
+            if arr[i] == arr[i + step]:
+                return arr[i]
+
 
     
 
