@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0038-count-and-say) |
 | [0273-integer-to-english-words](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0273-integer-to-english-words) |
@@ -87,4 +88,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0273-integer-to-english-words) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
