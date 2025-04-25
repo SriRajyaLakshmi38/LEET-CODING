@@ -16,5 +16,4 @@ class Solution:
                 start, end = l1, r1
             if r2 - l2 > end - start:
                 start, end = l2, r2
-
         return s[start:end + 1]
