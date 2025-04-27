@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0012-integer-to-roman) |
 | [0273-integer-to-english-words](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0273-integer-to-english-words) |
+| [0292-nim-game](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0292-nim-game) |
 | [0797-rabbits-in-forest](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1500-count-largest-group) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -93,4 +94,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0014-longest-common-prefix) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
