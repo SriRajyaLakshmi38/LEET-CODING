@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2249-count-the-hidden-sequences) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0012-integer-to-roman) |
 | [0797-rabbits-in-forest](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0797-rabbits-in-forest) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1500-count-largest-group) |
 | [2915-count-of-interesting-subarrays](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2915-count-of-interesting-subarrays) |
 ## Math
@@ -130,4 +132,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Counting
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1227-number-of-equivalent-domino-pairs) |
 <!---LeetCode Topics End-->
