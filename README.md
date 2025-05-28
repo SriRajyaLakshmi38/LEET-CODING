@@ -192,4 +192,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2215-finding-3-digit-even-numbers) |
+## Tree
+|  |
+| ------- |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 <!---LeetCode Topics End-->
