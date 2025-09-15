@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0038-count-and-say) |
 | [0273-integer-to-english-words](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0273-integer-to-english-words) |
 | [0868-push-dominoes](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0868-push-dominoes) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0073-set-matrix-zeroes) |
 | [0797-rabbits-in-forest](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1500-count-largest-group](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1500-count-largest-group) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2215-finding-3-digit-even-numbers) |
