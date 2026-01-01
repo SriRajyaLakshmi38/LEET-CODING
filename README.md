@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0039-combination-sum) |
+| [0066-plus-one](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0417-pacific-atlantic-water-flow) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0066-plus-one) |
 | [0273-integer-to-english-words](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0326-power-of-three) |
