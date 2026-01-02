@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0417-pacific-atlantic-water-flow) |
 | [0797-rabbits-in-forest](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0797-rabbits-in-forest) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0073-set-matrix-zeroes) |
 | [0797-rabbits-in-forest](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0797-rabbits-in-forest) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1500-count-largest-group](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1500-count-largest-group) |
