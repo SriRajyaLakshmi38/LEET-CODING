@@ -1,16 +1,29 @@
 class Solution:
     def sumFourDivisors(self, nums: List[int]) -> int:
-        total_sum = 0
 
-        for num in nums:
-            divisors = {}
+        def isPrime(x):
+            if x < 2:
+                return False
+            for i in range(2, int(x ** 0.5) + 1):
+                if x % i == 0:
+                    return False
+            return True
 
-            for i in range(1, int(num ** 0.5) + 1):
-                if num % i == 0:
-                    divisors[i] = True
-                    divisors[num // i] = True
+        total = 0
 
-            if len(divisors) == 4:
-                total_sum += sum(divisors.keys())
+        for n in nums:
+            # 🔹 Case 1: p^3
+            p = round(n ** (1/3))
+            if p ** 3 == n and isPrime(p):
+                total += 1 + p + p * p + n
+                continue
 
-        return total_sum
+            # 🔹 Case 2: p * q
+            for i in range(2, int(n ** 0.5) + 1):
+                if n % i == 0:
+                    j = n // i
+                    if i != j and isPrime(i) and isPrime(j):
+                        total += 1 + i + j + n
+                    break
+
+        return total
