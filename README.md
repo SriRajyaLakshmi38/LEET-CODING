@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3321-type-of-triangle](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3321-type-of-triangle) |
+| [3453-separate-squares-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3453-separate-squares-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3453-separate-squares-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3453-separate-squares-i) |
 | [3827-implement-router](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3827-implement-router) |
 ## Sorting
 |  |
