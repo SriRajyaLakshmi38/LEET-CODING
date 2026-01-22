@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3453-separate-squares-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3639-zero-array-transformation-i) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2915-count-of-interesting-subarrays](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2915-count-of-interesting-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3678-design-task-manager](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3678-design-task-manager) |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3678-design-task-manager](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3678-design-task-manager) |
@@ -309,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1929-concatenation-of-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3336-water-bottles-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Design
 |  |
 | ------- |
@@ -317,12 +321,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 |  |
 | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-design-task-manager](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3827-implement-router) |
 ## Linked List
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -341,4 +347,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3454-separate-squares-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
