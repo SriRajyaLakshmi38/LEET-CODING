@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0797-rabbits-in-forest) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1200-minimum-absolute-difference](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1200-minimum-absolute-difference) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1266-minimum-time-visiting-all-points) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1200-minimum-absolute-difference) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
