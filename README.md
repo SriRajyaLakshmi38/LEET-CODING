@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0868-push-dominoes](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0868-push-dominoes) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3637-count-number-of-balanced-permutations) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2915-count-of-interesting-subarrays](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -382,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Monotonic Stack
 |  |
