@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0417-pacific-atlantic-water-flow) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0797-rabbits-in-forest](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0797-rabbits-in-forest) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2394-count-subarrays-with-score-less-than-k) |
