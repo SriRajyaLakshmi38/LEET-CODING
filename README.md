@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0038-count-and-say) |
 | [0273-integer-to-english-words](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0273-integer-to-english-words) |
+| [0696-count-binary-substrings](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0868-push-dominoes](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0868-push-dominoes) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0005-longest-palindromic-substring) |
+| [0696-count-binary-substrings](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0696-count-binary-substrings) |
 | [0868-push-dominoes](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0868-push-dominoes) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2699-count-the-number-of-fair-pairs) |
