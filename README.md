@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0326-power-of-three) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0797-rabbits-in-forest) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1390-four-divisors) |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3676-smallest-number-with-all-set-bits) |
