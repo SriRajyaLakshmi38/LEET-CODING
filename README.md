@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0401-binary-watch](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0868-binary-gap) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3676-smallest-number-with-all-set-bits) |
