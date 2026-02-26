@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0868-push-dominoes](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0868-push-dominoes) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1929-concatenation-of-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1929-concatenation-of-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3336-water-bottles-ii) |
