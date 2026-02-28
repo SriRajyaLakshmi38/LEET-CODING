@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0273-integer-to-english-words) |
 | [0696-count-binary-substrings](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0326-power-of-three) |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0693-binary-number-with-alternating-bits) |
@@ -388,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1929-concatenation-of-array) |
