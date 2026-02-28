@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3321-type-of-triangle) |
+| [3379-transformed-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -397,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1929-concatenation-of-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Design
