@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3639-zero-array-transformation-i) |
 | [3640-trionic-array-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3640-trionic-array-ii) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3453-separate-squares-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3454-separate-squares-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3634-minimum-removals-to-balance-array) |
 | [3827-implement-router](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3827-implement-router) |
 ## Sorting
 |  |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3321-type-of-triangle) |
+| [3634-minimum-removals-to-balance-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3634-minimum-removals-to-balance-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -282,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3634-minimum-removals-to-balance-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3634-minimum-removals-to-balance-array) |
 ## Queue
 |  |
 | ------- |
