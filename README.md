@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1895-largest-magic-square) |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0417-pacific-atlantic-water-flow) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1895-largest-magic-square](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1975-maximum-matrix-sum) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
