@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2249-count-the-hidden-sequences](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2915-count-of-interesting-subarrays) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3639-zero-array-transformation-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3639-zero-array-transformation-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3721-longest-balanced-subarray-ii) |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3637-count-number-of-balanced-permutations) |
