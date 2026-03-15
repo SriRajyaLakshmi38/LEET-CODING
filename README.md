@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1500-count-largest-group) |
+| [1622-fancy-sequence](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -425,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1622-fancy-sequence) |
 | [3678-design-task-manager](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3827-implement-router) |
 ## Ordered Set
@@ -457,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3721-longest-balanced-subarray-ii) |
