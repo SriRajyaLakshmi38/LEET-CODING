@@ -11,4 +11,3 @@ class Solution:
             for c in range(len(row)):
                 result = max(result, (len(row)-c) * row[c])
         return result
-        
