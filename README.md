@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1895-largest-magic-square) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1200-minimum-absolute-difference](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -345,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0417-pacific-atlantic-water-flow) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1895-largest-magic-square](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1975-maximum-matrix-sum) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
