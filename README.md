@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0069-sqrtx) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0069-sqrtx) |
 | [0273-integer-to-english-words](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0326-power-of-three) |
