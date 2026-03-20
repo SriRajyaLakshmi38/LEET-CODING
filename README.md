@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1622-fancy-sequence](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2485-find-the-pivot-integer](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2485-find-the-pivot-integer) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-largest-magic-square](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1895-largest-magic-square) |
 | [2249-count-the-hidden-sequences](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2485-find-the-pivot-integer](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2485-find-the-pivot-integer) |
 | [2915-count-of-interesting-subarrays](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2915-count-of-interesting-subarrays) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3639-zero-array-transformation-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3639-zero-array-transformation-i) |
