@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3637-trionic-array-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3639-zero-array-transformation-i) |
 | [3640-trionic-array-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3640-trionic-array-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3719-longest-balanced-subarray-i) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0868-push-dominoes](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0868-push-dominoes) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3643-flip-square-submatrix-vertically](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
 | ------- |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1975-maximum-matrix-sum](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1975-maximum-matrix-sum) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Shortest Path
 |  |
