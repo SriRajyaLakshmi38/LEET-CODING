@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3640-trionic-array-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3721-longest-balanced-subarray-ii) |
@@ -441,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3379-transformed-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Design
 |  |
 | ------- |
@@ -504,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0190-reverse-bits) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3721-longest-balanced-subarray-ii) |
 ## Rolling Hash
