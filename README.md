@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3379-transformed-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3634-minimum-removals-to-balance-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3634-minimum-removals-to-balance-array) |
 | [3827-implement-router](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3827-implement-router) |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2915-count-of-interesting-subarrays](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2915-count-of-interesting-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3488-closest-equal-element-queries](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
