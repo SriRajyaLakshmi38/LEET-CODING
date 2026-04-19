@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1895-largest-magic-square) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0005-longest-palindromic-substring) |
 | [0696-count-binary-substrings](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0696-count-binary-substrings) |
 | [0868-push-dominoes](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0868-push-dominoes) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3643-flip-square-submatrix-vertically) |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0069-sqrtx) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2699-count-the-number-of-fair-pairs) |
