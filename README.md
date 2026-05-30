@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3161-block-placement-queries](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3161-block-placement-queries) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3161-block-placement-queries](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3454-separate-squares-ii) |
@@ -497,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3721-longest-balanced-subarray-ii) |
@@ -544,4 +547,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
