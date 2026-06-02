@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3639-zero-array-transformation-i) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3454-separate-squares-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3454-separate-squares-ii) |
 | [3488-closest-equal-element-queries](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3634-minimum-removals-to-balance-array) |
 | [3827-implement-router](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3827-implement-router) |
 ## Sorting
@@ -163,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3321-type-of-triangle) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3634-minimum-removals-to-balance-array) |
 ## Hash Table
 |  |
@@ -249,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Prefix Sum
 |  |
