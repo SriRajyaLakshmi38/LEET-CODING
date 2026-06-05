@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3637-count-number-of-balanced-permutations](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3637-count-number-of-balanced-permutations) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Greedy
 |  |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3637-count-number-of-balanced-permutations](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3637-count-number-of-balanced-permutations) |
 | [3640-trionic-array-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Combinatorics
 |  |
 | ------- |
