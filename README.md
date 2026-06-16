@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3612-process-string-with-special-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3637-count-number-of-balanced-permutations) |
@@ -482,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3379-transformed-array](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Design
 |  |
