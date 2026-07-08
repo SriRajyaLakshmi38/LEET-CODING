@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3637-count-number-of-balanced-permutations](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3637-count-number-of-balanced-permutations) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3713-longest-balanced-substring-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Greedy
 |  |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3719-longest-balanced-subarray-i](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3721-longest-balanced-subarray-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
