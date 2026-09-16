@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1500-count-largest-group) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1732-find-the-highest-altitude) |
 | [1895-largest-magic-square](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1895-largest-magic-square) |
 | [2249-count-the-hidden-sequences](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2249-count-the-hidden-sequences) |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -327,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3637-count-number-of-balanced-permutations) |
 ## Number Theory
