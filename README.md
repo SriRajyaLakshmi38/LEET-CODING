@@ -614,4 +614,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
