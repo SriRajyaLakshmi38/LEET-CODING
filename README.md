@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0856-score-of-parentheses](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0868-push-dominoes) |
 | [0940-distinct-subsequences-ii](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0940-distinct-subsequences-ii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -357,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0085-maximal-rectangle) |
+| [0856-score-of-parentheses](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0856-score-of-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Recursion
@@ -622,4 +624,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
