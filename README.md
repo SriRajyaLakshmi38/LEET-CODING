@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0115-distinct-subsequences) |
 | [0273-integer-to-english-words](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0273-integer-to-english-words) |
+| [0301-remove-invalid-parentheses](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0301-remove-invalid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0039-combination-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Stack
@@ -480,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0301-remove-invalid-parentheses) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0417-pacific-atlantic-water-flow) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SriRajyaLakshmi38/LEET-CODING/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
